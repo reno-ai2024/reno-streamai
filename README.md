@@ -9,7 +9,7 @@ Mine Data, Fuel AI, Earn Rewards Join the Stream AI Revolution
 
 - **Auto Create Connections**
 - **Support Multy Accounts**
-- **Support Proxy** format `http://ip:port` or `http://username:password@ip:port`
+- **Support Proxy** format `http://ip:port` or `http://username:password@ip:port` `socks5://user:pass@ip:port`
 
 ## Requirements
 
@@ -26,8 +26,8 @@ Mine Data, Fuel AI, Earn Rewards Join the Stream AI Revolution
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/airdropinsiders/StreamAi-Bot.git
-   cd StreamAi-Bot
+   git clone https://github.com/reno-ai2024/reno-streamai.git
+   cd reno-streamai
    ```
 2. Install dependencies:
    ```bash
