@@ -3,10 +3,10 @@ import { Gateway } from './utils/gateway.js';
 import log from './utils/logger.js';
 import banner from './utils/banner.js';
 
-const PROXIES_FILE = 'proxies.txt';
-const USERS_FILE = 'userIds.txt';
+const PROXIES_FILE = 'proxies.txt'
+const USERS_FILE = 'userIds.txt'
 const SERVER = "gw0.streamapp365.com";
-const MAX_GATEWAYS = 50;
+const MAX_GATEWAYS = 32;
 
 async function setupGatewaysForUser(user) {
     const proxies = loadProxies(PROXIES_FILE);
@@ -31,7 +31,7 @@ async function setupGatewaysForUser(user) {
 
 async function main() {
     log.info(banner);
-    const USERS = loadFile(USERS_FILE);
+    const USERS = loadFile(USERS_FILE)
     try {
         log.info("Setting up gateways for all users...");
 
