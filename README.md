@@ -2,21 +2,21 @@
 Mine Data, Fuel AI, Earn Rewards Join the Stream AI Revolution
 ![alt text](image-2.png)
 
-- Website [https://app.allstream.ai/](https://app.allstream.ai/index?referralCode=dbeSmdyK)
+- Website [https://app.allstream.ai/](https://app.allstream.ai/index?referralCode=FlGQxaTO)
 - Twitter/X [@allstream_ai](https://x.com/allstream_ai)
 
 ## Features
 
 - **Auto Create Connections**
 - **Support Multy Accounts**
-- **Support Proxy** format `http://ip:port` or `http://username:password@ip:port` `socks5://user:pass@ip:port`
+- **Support Proxy** format `http://ip:port` or `http://username:password@ip:port`
 
 ## Requirements
 
 - **Node.js**: Ensure you have Node.js installed.
 - **NPM**: Ensure you have npm installed.
 - **AiStream ID**: follow instructions below to get
-- Create AiStream here : [https://app.allstream.ai/](https://app.allstream.ai/index?referralCode=dbeSmdyK)
+- Create AiStream here : [https://app.allstream.ai/](https://app.allstream.ai/index?referralCode=FlGQxaTO)
 - F12 to inspect if you already login
 - find MyInfo from Network and copy your id.
    ![uid](image-1.png)
@@ -50,4 +50,9 @@ Mine Data, Fuel AI, Earn Rewards Join the Stream AI Revolution
 ## ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 This project is licensed under the [MIT License](LICENSE).
-Source : https://github.com/Zlkcyber
+
+
+
+
+
+
